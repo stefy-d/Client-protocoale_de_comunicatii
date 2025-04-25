@@ -1,12 +1,9 @@
 <div align="left">
 
-# **Tema 4**
-### Manea Ștefania-Delia 325CC
+# **Client**
+### Manea Ștefania-Delia
 </div>
 <br>
-    
-        Am folosit 2 sleep days.
-        Implementarea clientului pornește de la rezolvarea laboratorului 9.
 
 ### **Descriere generală:** 
 **Această aplicație client permite interacțiunea cu un server pentru diverse
